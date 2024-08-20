@@ -1,0 +1,9 @@
+This log was created on Aug 20 
+
+Log #1 1:37am Aug 20
+that night the 8 commit was made and it added the middlefile and the main_game.py file
+renamed main to start and added some code debugging ideas but nothing much.
+I tried to get it so when the accounthandle module was done it would start a game but didn't have enough time to fix it 
+the middle file thing just dont work so i hopefully fix tomarrow and start on the game. which btw i cant use this computer 
+i have to use another one as github code space cant understand pygame. I also delted a whole bunch of depricated functions 
+in the accounthandle file so happy debugging. Talk next time, cya 
